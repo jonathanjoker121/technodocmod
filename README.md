@@ -1,5 +1,5 @@
 # technodocmod 
-please check the following video to install the mod:
+please check the following video before installing the mod:
 
 https://youtu.be/dVbk4pMKr_I
 
